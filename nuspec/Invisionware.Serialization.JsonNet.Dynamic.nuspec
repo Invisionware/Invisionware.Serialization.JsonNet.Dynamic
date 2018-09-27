@@ -6,9 +6,9 @@
 		<title>Invisionware.Serialization.JsonNet.Dynamic</title>
 		<authors>Invisionware</authors>
 		<owners>Invisionware</owners>
-		<projectUrl>https://github.com/Invisionware/Serialization</projectUrl>
-		<licenseUrl>https://raw.githubusercontent.com/Invisionware/Serialization/master/LICENSE</licenseUrl>
-		<iconUrl>https://github.com/Invisionware/Serialization/raw/master/logo.png</iconUrl>
+		<projectUrl>https://github.com/Invisionware/Invisionware.Serialization</projectUrl>
+		<licenseUrl>https://raw.githubusercontent.com/Invisionware/Invisionware.Serialization/master/LICENSE</licenseUrl>
+		<iconUrl>https://github.com/Invisionware/Invisionware.Serialization/raw/master/logo.png</iconUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<description>This package implements the Dynamic Serialization of json objects</description>
 		<summary>This package implements the Dynamic Serialization of json objects</summary>
