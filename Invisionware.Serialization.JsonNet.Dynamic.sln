@@ -8,6 +8,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".misc", ".misc", "{6A1B9FC1
 		build.cake = build.cake
 		build.settings.json = build.settings.json
 		build.version.json = build.version.json
+		README.md = README.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuspec", ".nuspec", "{0CE42340-5EBE-4CCB-9DFA-CB084DB719C4}"
