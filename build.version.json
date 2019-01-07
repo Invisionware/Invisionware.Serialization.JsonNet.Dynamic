@@ -1,1 +1,1 @@
-{"Major":1,"Minor":0,"Build":1,"PreRelease":0,"ReleaseNotes":null}
+{"major":1,"minor":0,"build":2,"preRelease":1,"releaseNotes":["Added support for .NET Core"]}
