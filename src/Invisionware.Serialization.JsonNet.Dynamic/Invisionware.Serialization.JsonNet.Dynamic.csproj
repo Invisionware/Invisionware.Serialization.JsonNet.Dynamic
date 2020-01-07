@@ -4,15 +4,24 @@
 		<TargetFrameworks>netcoreapp2.0;netstandard2.0;net472</TargetFrameworks>
 		<PackageId>Invisionware.Serialization.JsonNet.Dynamic</PackageId>
 		<Authors>Invisionware</Authors>
-		<PackageProjectUrl>https://github.com/Invisionware/Invisionware.Serialization</PackageProjectUrl>
+		<PackageProjectUrl>https://github.com/Invisionware/Invisionware.Serialization.JsonNet.Dynamic</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/Invisionware/Invisionware.Serialization.JsonNet.Dynamic</RepositoryUrl>
+		<RepositoryType>github</RepositoryType>
+		<PackageIcon>logo.png</PackageIcon>
 		<license>Apache-2.0</license>
-		<PackageIconUrl>https://github.com/Invisionware/Invisionware.Serialization/raw/master/logo.png</PackageIconUrl>
-		<Description>This package implements the Dynamic Serialization of json objects</Description>
-		<PackageReleaseNotes></PackageReleaseNotes>
-		<Copyright>Copyright © 2018 Invisionware</Copyright>
-		<PackageTags>dictionary xml json serialization serialize invisionware jsonnet</PackageTags>
+		<Copyright>Copyright © 2020 Invisionware</Copyright>
 		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<Description>This package implements the Dynamic Serialization of json objects</Description>
+		<PackageTags>dictionary xml json serialization serialize invisionware jsonnet</PackageTags>
 	</PropertyGroup>
+
+	<ItemGroup>
+		<None Include="..\..\logo.png">
+			<Pack>True</Pack>
+			<PackagePath></PackagePath>
+		</None>
+	</ItemGroup>
+
 	<ItemGroup>
 		<PackageReference Include="Invisionware.Collections" Version="1.1.10-pre01" />
 		<PackageReference Include="Invisionware.Core" Version="1.0.2-pre04" />
