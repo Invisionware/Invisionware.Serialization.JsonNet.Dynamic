@@ -10,7 +10,7 @@ pool:
   vmImage: 'windows-latest'
 
 variables:
-  - group: Invisionware.Serialziation.JsonNet.Dynamic
+  - group: Invisionware.Serialization.JsonNet.Dynamic
   - name: solution
     value: '**/*.sln'
   - name: buildPlatform
