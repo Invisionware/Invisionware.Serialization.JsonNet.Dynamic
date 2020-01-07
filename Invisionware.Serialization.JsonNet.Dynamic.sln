@@ -22,7 +22,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{B67AEFF3
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Invisionware.Serialization.JsonNet.Dynamic", "src\Invisionware.Serialization.JsonNet.Dynamic\Invisionware.Serialization.JsonNet.Dynamic.csproj", "{6F814598-EA1C-4C12-9B32-2A4B9C383976}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Invisionware.Serialization.JsonNet.Dynamic.UnitTests", "tests\Invisionware.Serialization.JsonNet.Dynamic.UnitTests\Invisionware.Serialization.JsonNet.Dynamic.UnitTests.csproj", "{5757ED69-48DF-4934-8B12-DC41374EF409}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Invisionware.Serialization.JsonNet.Dynamic.Tests", "tests\Invisionware.Serialization.JsonNet.Dynamic.Tests\Invisionware.Serialization.JsonNet.Dynamic.Tests.csproj", "{5757ED69-48DF-4934-8B12-DC41374EF409}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
