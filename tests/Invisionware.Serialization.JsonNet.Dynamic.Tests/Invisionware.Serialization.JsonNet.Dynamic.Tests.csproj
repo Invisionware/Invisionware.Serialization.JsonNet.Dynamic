@@ -9,7 +9,7 @@
 
 	<ItemGroup>
 		<PackageReference Include="FluentAssertions" Version="5.10.2" />
-		<PackageReference Include="Invisionware.Core" Version="1.0.2-pre05" />
+		<PackageReference Include="Invisionware.Core" Version="1.0.2" />
 		<PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
 		<PackageReference Include="nunit" Version="3.12.0" />
 		<PackageReference Include="NUnit3TestAdapter" Version="3.16.1" />
